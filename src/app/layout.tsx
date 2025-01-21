@@ -15,7 +15,7 @@ export default function MainLayout() {
   return (
     <SidebarProvider>
       <AppSidebar />
-      <main className="flex w-lvw h-full bg-white flex-col text-black">
+      <main className="flex w-lvw h-lvh bg-white flex-col text-black">
         <header className="flex h-16 shrink-0 items-center gap-2 transition-[width,height] ease-linear group-has-[[data-collapsible=icon]]/sidebar-wrapper:h-12">
           <div className="flex items-center gap-2 px-4">
             <SidebarTrigger className="-ml-1 bg-white" />

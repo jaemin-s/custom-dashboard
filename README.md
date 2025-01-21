@@ -32,3 +32,24 @@
 
 - [Jest](https://jestjs.io/) - 자바스크립트 테스팅 프레임워크
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - React 컴포넌트 테스팅
+- [Mock Service Worker](https://mswjs.io/)
+
+## Data
+
+### 대시보드 데이터 [일자별, 월별]
+
+- 방문자 수
+- 페이지별 방문자 ( 총 방문자 수, 유니크 방문자 수, 이탈률)
+- 구독자 수
+- 매출
+- 콘텐츠별 히트 수 ( 총 히트 수, 시청 완료 비율, 진입 페이지)
+- 광고별 히트 수 (총 히트 수, 이탈률)
+- 평균 시청 시간
+- 선호 시청 시간대
+- 디바이스별 사용 비율
+
+### 콘텐츠 관리
+
+- 개별 콘텐츠 정보 수정
+- 큐레이션 관리
+- 콘텐츠 태그 관리
